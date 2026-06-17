@@ -1,0 +1,17 @@
+PORTFOLIO REPORT
+--------------------------
+Stock: centralbankoi
+Quantity: 10
+Invested: 620.0
+Current Value: 550.0
+Profit/Loss: -70.0
+
+Stock: morepen
+Quantity: 5
+Invested: 700.0
+Current Value: 750.0
+Profit/Loss: 50.0
+
+Total Invested: 1320.0
+Current Value: 1300.0
+Overall Profit/Loss: -20.0
